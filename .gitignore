@@ -1,0 +1,10 @@
+node_modules/
+admin/node_modules/
+.env
+data/db.json
+data/mongo/
+data/mongo.log
+public/uploads/*
+!public/uploads/.gitkeep
+.DS_Store
+npm-debug.log*
